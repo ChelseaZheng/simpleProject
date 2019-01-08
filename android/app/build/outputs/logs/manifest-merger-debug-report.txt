@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/652059dc9a45f50c38000aa0d5ba5325/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2f2a893ed31b7d128700439a03aff8f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f4db4ecbaaa5e0e5d6a2bdb88830bd2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/96204b29c0f46bfc953329c9466603b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ebf1e49a1390c245e1c0f86e8f4a6bd0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/859edf1361832a5fb57855b7947581ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2551f19b95bf6a7957e38ef7d4d54d3c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bf0ec4f83500e5d84df620a3c900dae2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/8235f287fabe76937bcce1ff6537d7a1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/548679ea7d8d291753467fac9801bb61/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/6c65748489f44dfd74f528bb750ecfae/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/7a1b6a3d1d5f37e06cb2afbb26c371fa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ff8a1108117cd64e1c01a3c7c56dc2b8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/68beed4e9021698f52590ad517a870b0/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b3242fd0b107cb404e048b812229ba2b/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b87011e1e9cb7fc71de9746b00a17cd2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c8797d1684e762f8d8b22b92c12e3ef8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/4d09bbd5215d3bdc1aa8ebe9bb0a4d4d/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f2feb9d6c781fcf7ba52cf73e1c9bf2a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eef81336a378478c1ca0eb0b7c6e1acf/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:2:5-32
+		INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/652059dc9a45f50c38000aa0d5ba5325/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/652059dc9a45f50c38000aa0d5ba5325/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/652059dc9a45f50c38000aa0d5ba5325/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/652059dc9a45f50c38000aa0d5ba5325/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/68beed4e9021698f52590ad517a870b0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/68beed4e9021698f52590ad517a870b0/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b3242fd0b107cb404e048b812229ba2b/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b3242fd0b107cb404e048b812229ba2b/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.simpleproject.MainActivity
+ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/652059dc9a45f50c38000aa0d5ba5325/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/652059dc9a45f50c38000aa0d5ba5325/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2f2a893ed31b7d128700439a03aff8f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2f2a893ed31b7d128700439a03aff8f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f4db4ecbaaa5e0e5d6a2bdb88830bd2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f4db4ecbaaa5e0e5d6a2bdb88830bd2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/96204b29c0f46bfc953329c9466603b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/96204b29c0f46bfc953329c9466603b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ebf1e49a1390c245e1c0f86e8f4a6bd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ebf1e49a1390c245e1c0f86e8f4a6bd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/859edf1361832a5fb57855b7947581ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/859edf1361832a5fb57855b7947581ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2551f19b95bf6a7957e38ef7d4d54d3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2551f19b95bf6a7957e38ef7d4d54d3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bf0ec4f83500e5d84df620a3c900dae2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bf0ec4f83500e5d84df620a3c900dae2/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/8235f287fabe76937bcce1ff6537d7a1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/8235f287fabe76937bcce1ff6537d7a1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/548679ea7d8d291753467fac9801bb61/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/548679ea7d8d291753467fac9801bb61/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/6c65748489f44dfd74f528bb750ecfae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/6c65748489f44dfd74f528bb750ecfae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/7a1b6a3d1d5f37e06cb2afbb26c371fa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/7a1b6a3d1d5f37e06cb2afbb26c371fa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ff8a1108117cd64e1c01a3c7c56dc2b8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ff8a1108117cd64e1c01a3c7c56dc2b8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/68beed4e9021698f52590ad517a870b0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/68beed4e9021698f52590ad517a870b0/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b87011e1e9cb7fc71de9746b00a17cd2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b87011e1e9cb7fc71de9746b00a17cd2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c8797d1684e762f8d8b22b92c12e3ef8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c8797d1684e762f8d8b22b92c12e3ef8/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/4d09bbd5215d3bdc1aa8ebe9bb0a4d4d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/4d09bbd5215d3bdc1aa8ebe9bb0a4d4d/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f2feb9d6c781fcf7ba52cf73e1c9bf2a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f2feb9d6c781fcf7ba52cf73e1c9bf2a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eef81336a378478c1ca0eb0b7c6e1acf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/fionazheng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eef81336a378478c1ca0eb0b7c6e1acf/AndroidManifest.xml:20:5-44
+INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/fionazheng/quadrant2/SimpleProject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
