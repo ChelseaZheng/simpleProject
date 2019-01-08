@@ -1,3 +1,5 @@
+#!/bin/bash
+
 npm i
 
 react-native link
@@ -14,10 +16,10 @@ echo "Apks built."
 
 echo "Checking apks exist or not"
 
-if [ ! -f android/app/build/outputs/apk/debug/app-debug.apk ]; then
+if [ ! -f app/build/outputs/apk/debug/app-debug.apk ]; then
     echo "Debug apk not found!"
 fi
 
-if [ ! -f android/app/build/outputs/apk/release/app-release-unsigned.apk ]; then
+if [ ! -f app/build/outputs/apk/release/app-release-unsigned.apk ]; then
     echo "Release apk not found!"
 fi
