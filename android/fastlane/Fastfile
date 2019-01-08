@@ -1,0 +1,50 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all available plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/available-plugins
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+# update_fastlane
+
+default_platform(:android)
+
+platform :android do
+  # desc "Runs all the tests"
+  # lane :test do
+  #   gradle(task: "test")
+  # end
+
+
+  lane :beta do
+    gradle(task: 'assemble', build_type: 'Debug')
+    crashlytics(
+      api_token: '8169a58505fa8020c04308339e7b7a23fd98e0e4',
+      build_secret: '22bfb8eeba057296c7720e4f19ab62c552936da4447e2ad8e2e399639f067a41',
+      emails: 'denny.george90@gmail.com, chelseazheng826@gmail.com, namanpujari913@gmail.com', 
+      apk_path: '/Users/fionazheng/quadrant2/SimpleProject/android/app/build/outputs/apk/debug/app-debug.apk',
+      debug: true
+    )
+    # slack(message: 'Successfully distributed a new beta build')
+  end
+  # desc "Submit a new Beta Build to Crashlytics Beta"
+  # lane :beta do
+  #   gradle(task: "clean assembleRelease")
+  #   crashlytics
+  #
+  #   # sh "your_script.sh"
+  #   # You can also use other beta testing services here
+  # end
+  #
+  # desc "Deploy a new version to the Google Play"
+  # lane :deploy do
+  #   gradle(task: "clean assembleRelease")
+  #   upload_to_play_store
+  # end
+end

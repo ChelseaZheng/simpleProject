@@ -1,0 +1,4 @@
+#Tue Jan 08 16:11:42 EST 2019
+base.0=/Users/fionazheng/quadrant2/SimpleProject/android/app/build/intermediates/transforms/dexMerger/debug/11
+path.0=classes.dex
+renamed.0=classes.dex
